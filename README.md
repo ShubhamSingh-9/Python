@@ -1,7 +1,7 @@
 # Python
 
-## Function
-Any simple input to the function means some output.
+## Function 
+It's a mathematical concept that relates an input to an output. For any simple input to the function, there is a corresponding output that follows a certain rule or pattern. For example, the function f(x) = 2x takes any number x as an input and returns twice that number as an output.
 
 ## Data Type:
 A program can handle different types of data depending on the programming language and the data structures used. Some common data types are integers, floats, strings, booleans, arrays, lists, dictionaries, and objects. Each data type has its properties and operations that can be performed on it. A program can handle multiple data types by using variables, constants, expressions, statements, functions, and classes.

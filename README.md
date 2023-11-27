@@ -46,13 +46,13 @@ k = a + b / c - d # k is -2.769230769230769
 ### 2. Relatioanl Operators:
 Relational operators are symbols that compare two values and return a boolean result (true or false). They are often used in conditional statements, such as if, while, or for, to control the flow of a program. Here are some common relational operators in most programming languages:
 
-> : greater than. Returns true if the left operand is larger than the right operand, false otherwise. For example, 5 > 3 is true, but 2 > 4 is false.
-< : less than. Returns true if the left operand is smaller than the right operand, false otherwise. For example, 2 < 4 is true, but 5 < 3 is false.
-= : assignment. Assigns the value of the right operand to the left operand. For example, x = 10 means that the variable x now holds the value 10. This is not a relational operator, but it is often confused with one.
-== : equal to. Returns true if the left and right operands have the same value, false otherwise. For example, 5 == 5 is true, but 5 == 3 is false.
-!= : not equal to. Returns true if the left and right operands have different values, false otherwise. For example, 5 != 3 is true, but 5 != 5 is false.
->= : greater than or equal to. Returns true if the left operand is larger than or equal to the right operand, false otherwise. For example, 5 >= 3 is true, but 2 >= 4 is false.
-<= : less than or equal to. Returns true if the left operand is smaller than or equal to the right operand, false otherwise. For example, 2 <= 4 is true, but 5 <= 3 is false.
+'>' : greater than. Returns true if the left operand is larger than the right operand, false otherwise. For example, 5 > 3 is true, but 2 > 4 is false.
+'<' : less than. Returns true if the left operand is smaller than the right operand, false otherwise. For example, 2 < 4 is true, but 5 < 3 is false.
+'=' : assignment. Assigns the value of the right operand to the left operand. For example, x = 10 means that the variable x now holds the value 10. This is not a relational operator, but it is often confused with one.
+'==' : equal to. Returns true if the left and right operands have the same value, false otherwise. For example, 5 == 5 is true, but 5 == 3 is false.
+'!=' : not equal to. Returns true if the left and right operands have different values, false otherwise. For example, 5 != 3 is true, but 5 != 5 is false.
+'>=' : greater than or equal to. Returns true if the left operand is larger than or equal to the right operand, false otherwise. For example, 5 >= 3 is true, but 2 >= 4 is false.
+'<=' : less than or equal to. Returns true if the left operand is smaller than or equal to the right operand, false otherwise. For example, 2 <= 4 is true, but 5 <= 3 is false.
 These are some of the basic relational operators that you will encounter in programming. They can help you write more expressive and logical code that can handle different situations and inputs.
 
 ### 3. Logical operators:

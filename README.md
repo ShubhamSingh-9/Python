@@ -53,6 +53,7 @@ Relational operators are symbols that compare two values and return a boolean re
 '!=' : not equal to. Returns true if the left and right operands have different values, false otherwise. For example, 5 != 3 is true, but 5 != 5 is false.
 '>=' : greater than or equal to. Returns true if the left operand is larger than or equal to the right operand, false otherwise. For example, 5 >= 3 is true, but 2 >= 4 is false.
 '<=' : less than or equal to. Returns true if the left operand is smaller than or equal to the right operand, false otherwise. For example, 2 <= 4 is true, but 5 <= 3 is false.
+
 These are some of the basic relational operators that you will encounter in programming. They can help you write more expressive and logical code that can handle different situations and inputs.
 
 ### 3. Logical operators:

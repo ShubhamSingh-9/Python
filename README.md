@@ -1,6 +1,6 @@
 # Python
 
-## Function 
+## Function
 It's a mathematical concept that relates an input to an output. For any simple input to the function, there is a corresponding output that follows a certain rule or pattern. For example, the function f(x) = 2x takes any number x as an input and returns twice that number as an output.
 
 ## Data Type:
